@@ -1,8 +1,10 @@
 package org.example.models;
 
 import org.example.strategies.ParkingSpotAssignmentStrategy;
+import org.example.enums.*;
 
 import java.util.List;
+
 
 public class ParkingLot extends BaseModel {
     // @OneToMany // SpringBoot BMS

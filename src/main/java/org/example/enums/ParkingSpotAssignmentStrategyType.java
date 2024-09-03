@@ -1,7 +1,8 @@
-package org.example.models;
+package org.example.enums;
 
 public enum ParkingSpotAssignmentStrategyType {
     NEAREST,
     RANDOM,
-    CHEAPEST,
+    CHEAPEST
+
 }
